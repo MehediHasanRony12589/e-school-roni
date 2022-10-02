@@ -28,14 +28,14 @@
     .ol{margin-bottom: 50px;}
     .man{width: 120px;height: 120px;}
     .jk{color: #000000;font-size: 16px;line-height: 30px;font-family: 'Poppins';font-weight: 400;line-height: 30px;margin-left: 20px;}
-    .footer{background-color: #282531;width: 1440px;height: 369px;}
+    .footer{background-color: #282531;width: 1440px;height: 469px;}
     .p1{color: #FFFFFF;font-family: 'Poppins';font-weight: 400;font-size: 16px;line-height: 30px;margin-left: 143px;margin-top: 80px;}
     .p2{position: absolute;
         width: 123px;
         height: 181px;
         left: 1433px;
-        
-        margin-top: 40px;
+        margin-top: 30px;
+      
         font-family: 'Poppins';
         font-style: normal;
         font-weight: 700;
@@ -49,8 +49,8 @@
             width: 123px;
             height: 181px;
             left: 1633px;
-            margin-top: 40px;
             
+            margin-top: 30px;
             font-family: 'Poppins';
             font-style: normal;
             font-weight: 700;
@@ -63,8 +63,8 @@
             .p4{position: absolute;
                 width: 123px;
                 height: 181px;
-                left: 1933px;
-                margin-top: 40px;
+                left: 1833px;
+                margin-top: 30px;
                 
                 
                 font-family: 'Poppins';
@@ -76,4 +76,4 @@
                 
                 
                 color: grey;}
-                .last{color: #CDCDCD;margin-top: 170px;text-align: center;}
+                .last{color: #CDCDCD;margin-top: 270px;text-align: center;}
